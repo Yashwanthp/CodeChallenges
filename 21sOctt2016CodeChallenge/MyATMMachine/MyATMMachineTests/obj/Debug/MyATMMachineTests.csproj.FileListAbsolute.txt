@@ -1,0 +1,8 @@
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\bin\Debug\MyATMMachineTests.dll
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\bin\Debug\MyATMMachineTests.pdb
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\bin\Debug\MyATMMachine.exe
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\bin\Debug\MyATMMachine.pdb
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\obj\Debug\MyATMMachineTests.csprojResolveAssemblyReference.cache
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\obj\Debug\MyATMMachineTests.dll
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachineTests\obj\Debug\MyATMMachineTests.pdb

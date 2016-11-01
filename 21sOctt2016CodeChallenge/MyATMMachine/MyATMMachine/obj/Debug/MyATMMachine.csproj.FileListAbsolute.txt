@@ -1,0 +1,9 @@
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.exe.config
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.exe
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.pdb
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.csprojResolveAssemblyReference.cache
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.exe
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.pdb
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\CodeChallenges\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\bin\Debug\MyATMMachine.exe.config
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\CodeChallenges\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.exe
+E:\MySpace\Code\Bi-WeeklyCodeChallenge\CodeChallenges\21sOctt2016CodeChallenge\MyATMMachine\MyATMMachine\obj\Debug\MyATMMachine.pdb
